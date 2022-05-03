@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\src\\github\\estudos\\oop_fundamentals\\oop_fundamentals.csproj": {}
+    "C:\\scr\\github\\oop_fundamentals\\oop_fundamentals.csproj": {}
   },
   "projects": {
-    "C:\\src\\github\\estudos\\oop_fundamentals\\oop_fundamentals.csproj": {
+    "C:\\scr\\github\\oop_fundamentals\\oop_fundamentals.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\src\\github\\estudos\\oop_fundamentals\\oop_fundamentals.csproj",
+        "projectUniqueName": "C:\\scr\\github\\oop_fundamentals\\oop_fundamentals.csproj",
         "projectName": "oop_fundamentals",
-        "projectPath": "C:\\src\\github\\estudos\\oop_fundamentals\\oop_fundamentals.csproj",
-        "packagesPath": "C:\\Users\\Rafael\\.nuget\\packages\\",
-        "outputPath": "C:\\src\\github\\estudos\\oop_fundamentals\\obj\\",
+        "projectPath": "C:\\scr\\github\\oop_fundamentals\\oop_fundamentals.csproj",
+        "packagesPath": "C:\\Users\\Player HDN\\.nuget\\packages\\",
+        "outputPath": "C:\\scr\\github\\oop_fundamentals\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Rafael\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Player HDN\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

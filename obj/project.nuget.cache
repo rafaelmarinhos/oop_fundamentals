@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "t1z6nhNYgy7qNwDE9mubDco2ClupFfZaGTyAfMsoVp3RnZd2YpOOXJHwmhP+TRFlBlnDnSnsdARUI93UGXtbBg==",
+  "dgSpecHash": "vubV4dLrn43twnAY6ew8GRXzwJ0u8FI8TyBTGiVtGFoky53q7gyo66ashfqtY9bxjcHpwI3j5tQ9CHzdZO/imA==",
   "success": true,
-  "projectFilePath": "C:\\src\\github\\estudos\\oop_fundamentals\\oop_fundamentals.csproj",
+  "projectFilePath": "C:\\scr\\github\\oop_fundamentals\\oop_fundamentals.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,13 +1,18 @@
-﻿namespace oop_fundamentals.ContentContext
+﻿using oop_fundamentals.ContentContext.enums;
+
+namespace oop_fundamentals.ContentContext
 {
     internal class Course : Content
     {
-        public Course()
+        public Course(string title, string url)
+            : base(title, url)
         {
             Modules = new List<Module>();
         }
 
         public string? Tag { get; set; }
         public IList<Module> Modules { get; set; }
+        public int DurationInMinutes { get; set; }
+        public EContentLevel Level { get; set; }
     }
 }

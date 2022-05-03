@@ -1,6 +1,8 @@
-﻿namespace oop_fundamentals.ContentContext
+﻿using oop_fundamentals.SharedContext;
+
+namespace oop_fundamentals.ContentContext
 {
-    internal class Module
+    internal class Module : Base
     {
         public Module()
         {

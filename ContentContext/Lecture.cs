@@ -1,14 +1,13 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using oop_fundamentals.ContentContext.enums;
+using oop_fundamentals.SharedContext;
 
 namespace oop_fundamentals.ContentContext
 {
-    internal class Lecture
+    internal class Lecture : Base
     {
         public int Order { get; set; }
-        public string? Title { get; set; }
+        public string? Title { get; set; }        
+        public int DurationInMinutes { get; set; }
+        public EContentLevel Level { get; set; }
     }
 }
